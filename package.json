@@ -1,0 +1,23 @@
+{
+  "name": "randomfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"/
+    "star": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kit2412001/randomfood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kit2412001/randomfood/issues"
+  },
+  "homepage": "https://github.com/Kit2412001/randomfood#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
